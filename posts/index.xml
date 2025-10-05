@@ -13,7 +13,7 @@
       <link>https://edmundasx.github.io/posts/pirmas/</link>
       <pubDate>Sun, 05 Oct 2025 12:04:24 +0300</pubDate>
       <guid>https://edmundasx.github.io/posts/pirmas/</guid>
-      <description>&lt;p&gt;d&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;sveiki-atvykę-į-mano-pirmą-hugo-puslapį-&#34;&gt;Sveiki atvykę į mano pirmą Hugo puslapį 🧡🐈&lt;/h1&gt;&#xA;&lt;p&gt;Štai paveiksliukas oranžinio katino:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://edmundasx.github.io/images/orange-cat.jpg&#34; alt=&#34;Oranžinis katinas&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ir čia pavyzdinis kodo fragmentas:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;sveikas&lt;/span&gt;():&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Labas iš Hugo ir oranžinio katino 🐱&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sveikas()&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>
