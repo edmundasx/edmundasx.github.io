@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Edmundo tinklalapis</title>
+    <link>https://edmundasx.github.io/posts/</link>
+    <description>Recent content in Posts on Edmundo tinklalapis</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Oct 2025 12:04:24 +0300</lastBuildDate>
+    <atom:link href="https://edmundasx.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pirmas</title>
+      <link>https://edmundasx.github.io/posts/pirmas/</link>
+      <pubDate>Sun, 05 Oct 2025 12:04:24 +0300</pubDate>
+      <guid>https://edmundasx.github.io/posts/pirmas/</guid>
+      <description>&lt;p&gt;d&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
